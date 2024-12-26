@@ -9,12 +9,16 @@ class Solution(object):
         :rtype: None Do not return anything, modify nums1 in-place instead.
         """
 
-        if self.m + self.n:
-            pass
+        nums1_index, nums2_index, write_index = m - 1, n - 1, m + n - 1
 
-array_1, array_2 = [1, 3, 5], [2, 4, 6]
-standart = array_1 + array_2
-print(standart)
+        while nums2_index >= 0:
+            if nums1_index >= 0 and nums1[nums1_index] > nums2[nums2_index]:
+                nums1[write_index] = nums1[nums1_index]
+                nums1_index -= 1
+            else:
+                nums1[write_index] = nums2[nums2_index]
+                nums2_index -= 1
+            write_index -= 1
 
 
 
