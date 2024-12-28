@@ -1,5 +1,5 @@
 import unittest
-from . import Merge_Sorted_Array_88 as ms
+from . import _88_Merge_Sorted_Array as ms
 
 class MergeSortedTest(unittest.TestCase):
 
