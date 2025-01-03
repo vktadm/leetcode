@@ -1,6 +1,6 @@
 import unittest
 
-from _125_Valid_Palindrome import Solution
+from easy._125_Valid_Palindrome import Solution
 
 
 class TestClass(unittest.TestCase):

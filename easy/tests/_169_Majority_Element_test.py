@@ -1,5 +1,5 @@
 import unittest
-from . import _169_Majority_Element as me
+from easy import _169_Majority_Element as me
 
 class MajorityTest(unittest.TestCase):
 

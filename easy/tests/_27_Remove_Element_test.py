@@ -1,5 +1,5 @@
 import unittest
-from . import _27_Remove_Element as rm
+from easy import _27_Remove_Element as rm
 
 class RemoveElementTest(unittest.TestCase):
 

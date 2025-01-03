@@ -1,6 +1,6 @@
 import unittest
 
-from _392_Is_Subsequence import Solution
+from easy._392_Is_Subsequence import Solution
 
 
 class TestClass(unittest.TestCase):

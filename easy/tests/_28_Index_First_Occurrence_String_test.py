@@ -1,6 +1,6 @@
 import unittest
 
-from _28_Index_First_Occurrence_String import Solution
+from easy._28_Index_First_Occurrence_String import Solution
 
 
 class FirstOccurrenceStr(unittest.TestCase):

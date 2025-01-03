@@ -1,7 +1,7 @@
 import unittest
 from roman import fromRoman
 
-from _13_Roman_to_Integer import Solution
+from easy._13_Roman_to_Integer import Solution
 
 
 class MajorityTest(unittest.TestCase):
