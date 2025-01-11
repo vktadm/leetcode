@@ -1,6 +1,6 @@
 import unittest
 
-from easy._14_Longest_Common_Prefix import Solution
+from Array_String.easy._14_Longest_Common_Prefix import Solution
 
 
 class LongestCommonPrefixTest(unittest.TestCase):

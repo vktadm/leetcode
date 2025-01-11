@@ -1,6 +1,6 @@
 import unittest
 
-from easy._392_Is_Subsequence import Solution
+from Two_Pointers.easy._392_Is_Subsequence import Solution
 
 
 class TestClass(unittest.TestCase):

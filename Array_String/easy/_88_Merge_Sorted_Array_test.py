@@ -1,5 +1,6 @@
 import unittest
-from easy import _88_Merge_Sorted_Array as ms
+from Array_String.easy import _88_Merge_Sorted_Array as ms
+
 
 class MergeSortedTest(unittest.TestCase):
 

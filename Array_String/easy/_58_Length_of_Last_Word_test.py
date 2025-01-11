@@ -1,6 +1,6 @@
 import unittest
 
-from .._58_Length_of_Last_Word import Solution
+from Array_String.easy._58_Length_of_Last_Word import Solution
 
 
 class LengthOfLastWordTest(unittest.TestCase):
