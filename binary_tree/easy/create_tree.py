@@ -16,14 +16,15 @@ def create_tree(lst):
     while lst:
         node = children.pop(0)
 
-        node.left = TreeNode(lst.pop(0))
-        children.append(node.left)
+        if node:
+            node.left = TreeNode(lst.pop(0)) if lst[0] else lst.pop(0)
+            children.append(node.left)
 
-        if not lst:
-            break
+            if not lst:
+                break
 
-        node.right = TreeNode(lst.pop(0))
-        children.append(node.right)
+            node.right = TreeNode(lst.pop(0)) if lst[0] else lst.pop(0)
+            children.append(node.right)
 
     return root
 

@@ -1,6 +1,6 @@
 import unittest
 
-from _56_Merge_Intervals import Solution
+from intervals.medium._56_Merge_Intervals import Solution
 
 
 class SolutionTest(unittest.TestCase):
