@@ -18,3 +18,5 @@
   - [Решение](https://github.com/vktadm/leetcode/blob/master/linked_list/easy/_206_Reverse_Linked_List.py)
 - [ ] https://leetcode.com/problems/reorder-list/description/
 - [ ] https://leetcode.com/problems/unique-paths/description/
+***
+# [Задачи с собеседований](https://github.com/vktadm/leetcode/blob/master/from_interviews.md)
