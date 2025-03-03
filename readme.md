@@ -2,8 +2,8 @@
 ***
 - [x] https://leetcode.com/problems/valid-palindrome/description/
   - [Решение](https://github.com/vktadm/leetcode/blob/master/two_pointers/easy/_125_Valid_Palindrome.py)
-- [ ] https://leetcode.com/problems/flatten-nested-list-iterator/description/
-  - ?
+- [x] https://leetcode.com/problems/flatten-nested-list-iterator/description/
+  - [Решение](https://github.com/vktadm/leetcode/blob/master/_341_Flatten_Nested_List_Iterator.py)
 - [x] https://leetcode.com/problems/fibonacci-number/description/
   - [Решение](https://github.com/vktadm/leetcode/blob/master/math/easy/_509_Fibonacci_Number.py)
 - [x] https://leetcode.com/problems/merge-intervals/description/  
