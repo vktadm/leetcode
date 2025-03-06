@@ -8,7 +8,8 @@
   - [Решение](https://github.com/vktadm/leetcode/blob/master/math/easy/_509_Fibonacci_Number.py)
 - [x] https://leetcode.com/problems/merge-intervals/description/  
   - [Решение](https://github.com/vktadm/leetcode/blob/master/intervals/medium/_56_Merge_Intervals.py)
-- [ ] https://leetcode.com/problems/non-overlapping-intervals/description/
+- [x] https://leetcode.com/problems/non-overlapping-intervals/description/
+  - [Решение](https://github.com/vktadm/leetcode/blob/master/dynamic/medium/_435_Non_overlapping_Intervals.py)
 - [ ] https://leetcode.com/problems/insert-interval/description/
 - [x] https://leetcode.com/problems/binary-tree-inorder-traversal/description/
   - [Решение](https://github.com/vktadm/leetcode/blob/master/binary_tree/easy/_94_Binary_Tree_Inorder_Traversal.py)
