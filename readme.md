@@ -1,23 +1,64 @@
-# Вечный leetcode
-***
-- [x] https://leetcode.com/problems/valid-palindrome/description/
-  - [Решение](https://github.com/vktadm/leetcode/blob/master/two_pointers/easy/_125_Valid_Palindrome.py)
-- [x] https://leetcode.com/problems/flatten-nested-list-iterator/description/
-  - [Решение](https://github.com/vktadm/leetcode/blob/master/_341_Flatten_Nested_List_Iterator.py)
-- [x] https://leetcode.com/problems/fibonacci-number/description/
-  - [Решение](https://github.com/vktadm/leetcode/blob/master/math/easy/_509_Fibonacci_Number.py)
-- [x] https://leetcode.com/problems/merge-intervals/description/  
-  - [Решение](https://github.com/vktadm/leetcode/blob/master/intervals/medium/_56_Merge_Intervals.py)
-- [x] https://leetcode.com/problems/non-overlapping-intervals/description/
-  - [Решение](https://github.com/vktadm/leetcode/blob/master/dynamic/medium/_435_Non_overlapping_Intervals.py)
-- [ ] https://leetcode.com/problems/insert-interval/description/
-- [x] https://leetcode.com/problems/binary-tree-inorder-traversal/description/
-  - [Решение](https://github.com/vktadm/leetcode/blob/master/binary_tree/easy/_94_Binary_Tree_Inorder_Traversal.py)
-- [x] https://leetcode.com/problems/maximum-depth-of-binary-tree/  
-  - [Решение](https://github.com/vktadm/leetcode/blob/master/binary_tree/easy/_104_Maximum_Depth_of_Binary_Tree.py)
-- [x] https://leetcode.com/problems/reverse-linked-list/description/
-  - [Решение](https://github.com/vktadm/leetcode/blob/master/linked_list/easy/_206_Reverse_Linked_List.py)
-- [ ] https://leetcode.com/problems/reorder-list/description/
-- [ ] https://leetcode.com/problems/unique-paths/description/
-***
-# [Задачи с собеседований](https://github.com/vktadm/leetcode/blob/master/from_interviews.md)
+# [Leetcode](https://leetcode.com/u/vkta_tdm/) problem solving
+- Prefix Sum  
+    - Easy   - _1_  
+        - [x] [ 1732 Find the Highest Altitude](prefix_sum/easy/_1732_Find_the_Highest_Altitude.py)  
+- Two Pointers  
+    - Easy   - _3_  
+        - [x] [ 125 Valid Palindrome](two_pointers/easy/_125_Valid_Palindrome.py)  
+        - [x] [ 392 Is Subsequence](two_pointers/easy/_392_Is_Subsequence.py)  
+        - [x] [ 283 Move Zeroes](two_pointers/easy/_283_Move_Zeroes.py)  
+- Dynamic  
+    - Medium   - _2_  
+        - [x] [ 341 Flatten Nested List Iterator](dynamic/medium/_341_Flatten_Nested_List_Iterator.py)  
+        - [x] [ 435 Non overlapping Intervals](dynamic/medium/_435_Non_overlapping_Intervals.py)  
+- Binary Tree  
+    - Easy   - _9_  
+        - [x] [ 222 Count Complete Tree Nodes](binary_tree/easy/_222_Count_Complete_Tree_Nodes.py)  
+        - [x] [ 637 Average of Levels in Binary Tree](binary_tree/easy/_637_Average_of_Levels_in_Binary_Tree.py)  
+        - [x] [ 112 Path Sum](binary_tree/easy/_112_Path_Sum.py)  
+        - [x] [ 226 Invert Binary Tree](binary_tree/easy/_226_Invert_Binary_Tree.py)  
+        - [x] [ 94 Binary Tree Inorder Traversal](binary_tree/easy/_94_Binary_Tree_Inorder_Traversal.py)  
+        - [x] [ 872 Leaf Similar Trees](binary_tree/easy/_872_Leaf_Similar_Trees.py)  
+        - [x] [ 101 Symmetric Tree](binary_tree/easy/_101_Symmetric_Tree.py)  
+        - [x] [ 100 Same Tree](binary_tree/easy/_100_Same_Tree.py)  
+        - [x] [ 104 Maximum Depth of Binary Tree](binary_tree/easy/_104_Maximum_Depth_of_Binary_Tree.py)  
+- Array String  
+    - Easy   - _8_  
+        - [x] [ 27 Remove Element](array_string/easy/_27_Remove_Element.py)  
+        - [x] [ 28 Index First Occurrence String](array_string/easy/_28_Index_First_Occurrence_String.py)  
+        - [x] [ 88 Merge Sorted Array](array_string/easy/_88_Merge_Sorted_Array.py)  
+        - [x] [ 169 Majority Element](array_string/easy/_169_Majority_Element.py)  
+        - [x] [ 121 Best Time to Buy and Sell Stock](array_string/easy/_121_Best_Time_to_Buy_and_Sell_Stock.py)  
+        - [x] [ 14 Longest Common Prefix](array_string/easy/_14_Longest_Common_Prefix.py)  
+        - [x] [ 13 Roman to Integer](array_string/easy/_13_Roman_to_Integer.py)  
+        - [x] [ 58 Length of Last Word](array_string/easy/_58_Length_of_Last_Word.py)  
+    - Medium   - _1_  
+        - [x] [ 151 Reverse Words in a String](array_string/medium/_151_Reverse_Words_in_a_String.py)  
+- Math  
+    - Easy   - _1_  
+        - [x] [ 509 Fibonacci Number](math/easy/_509_Fibonacci_Number.py)  
+- Hashmap  
+    - Easy   - _8_  
+        - [x] [ 1207 Unique Number of Occurrences](hashmap/easy/_1207_Unique_Number_of_Occurrences.py)  
+        - [x] [ 242 Valid Anagram](hashmap/easy/_242_Valid_Anagram.py)  
+        - [x] [ 1 Two Sum](hashmap/easy/_1_Two_Sum.py)  
+        - [x] [ 205 Isomorphic Strings](hashmap/easy/_205_Isomorphic_Strings.py)  
+        - [x] [ 290 Word Pattern](hashmap/easy/_290_Word_Pattern.py)  
+        - [x] [ 202 Happy Number](hashmap/easy/_202_Happy_Number.py)  
+        - [x] [ 219 Contains Duplicate II](hashmap/easy/_219_Contains_Duplicate_II.py)  
+        - [x] [ 383 Ransom Note](hashmap/easy/_383_Ransom_Note.py)  
+- Intervals  
+    - Easy   - _1_  
+        - [x] [ 228 Summary Ranges](intervals/easy/_228_Summary_Ranges.py)  
+    - Medium   - _1_  
+        - [x] [ 56 Merge Intervals](intervals/medium/_56_Merge_Intervals.py)  
+- Stack  
+    - Easy   - _1_  
+        - [x] [ 20 Valid Parentheses](stack/easy/_20_Valid_Parentheses.py)  
+    - Medium   - _1_  
+        - [x] [ 394 Decode String](stack/medium/_394_Decode_String.py)  
+- Bst  
+    - Easy   - _1_  
+        - [x] [ 700 Search BST](BST/easy/_700_Search_BST.py)  
+
+**TOTAL SOLVED**: _38 problems_
