@@ -2,11 +2,18 @@
 - Prefix Sum  
     - Easy   - _1_  
         - [x] [ 1732 Find the Highest Altitude](prefix_sum/easy/_1732_Find_the_Highest_Altitude.py)  
+    - Medium   - _1_  
+        - [x] [ 560 Subarray Sum Equals K](prefix_sum/medium/_560_Subarray_Sum_Equals_K.py)  
 - Two Pointers  
     - Easy   - _3_  
         - [x] [ 125 Valid Palindrome](two_pointers/easy/_125_Valid_Palindrome.py)  
         - [x] [ 392 Is Subsequence](two_pointers/easy/_392_Is_Subsequence.py)  
         - [x] [ 283 Move Zeroes](two_pointers/easy/_283_Move_Zeroes.py)  
+    - Medium   - _1_  
+        - [x] [ 443 String Compression](two_pointers/medium/_443_String_Compression.py)  
+- Linear Search  
+    - Hard   - _1_  
+        - [x] [ 42 Trapping Rain Water](linear_search/hard/_42_Trapping_Rain_Water.py)  
 - Dynamic  
     - Medium   - _2_  
         - [x] [ 341 Flatten Nested List Iterator](dynamic/medium/_341_Flatten_Nested_List_Iterator.py)  
@@ -47,6 +54,8 @@
         - [x] [ 202 Happy Number](hashmap/easy/_202_Happy_Number.py)  
         - [x] [ 219 Contains Duplicate II](hashmap/easy/_219_Contains_Duplicate_II.py)  
         - [x] [ 383 Ransom Note](hashmap/easy/_383_Ransom_Note.py)  
+    - Medium   - _1_  
+        - [x] [ 49 Group Anagrams](hashmap/medium/_49_Group_Anagrams.py)  
 - Intervals  
     - Easy   - _1_  
         - [x] [ 228 Summary Ranges](intervals/easy/_228_Summary_Ranges.py)  
@@ -61,4 +70,4 @@
     - Easy   - _1_  
         - [x] [ 700 Search BST](BST/easy/_700_Search_BST.py)  
 
-**TOTAL SOLVED**: _38 problems_
+**TOTAL SOLVED**: _42 problems_
