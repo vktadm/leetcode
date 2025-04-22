@@ -15,8 +15,10 @@
     - Hard   - _1_  
         - [x] [ 42 Trapping Rain Water](linear_search/hard/_42_Trapping_Rain_Water.py)  
 - Dynamic  
-    - Medium   - _2_  
+    - Medium   - _4_  
         - [x] [ 341 Flatten Nested List Iterator](dynamic/medium/_341_Flatten_Nested_List_Iterator.py)  
+        - [x] [ 1493 Longest Subarray of 1's After Deleting One Element](dynamic/medium/_1493_Longest_Subarray_of_1's_After_Deleting_One_Element.py)  
+        - [x] [ 279 Perfect Squares](dynamic/medium/_279_Perfect_Squares.py)  
         - [x] [ 435 Non overlapping Intervals](dynamic/medium/_435_Non_overlapping_Intervals.py)  
 - Binary Tree  
     - Easy   - _9_  
@@ -39,8 +41,9 @@
         - [x] [ 14 Longest Common Prefix](array_string/easy/_14_Longest_Common_Prefix.py)  
         - [x] [ 13 Roman to Integer](array_string/easy/_13_Roman_to_Integer.py)  
         - [x] [ 58 Length of Last Word](array_string/easy/_58_Length_of_Last_Word.py)  
-    - Medium   - _1_  
+    - Medium   - _2_  
         - [x] [ 151 Reverse Words in a String](array_string/medium/_151_Reverse_Words_in_a_String.py)  
+        - [x] [ 849 Maximize Distance to Closest Person](array_string/medium/_849_Maximize_Distance_to_Closest_Person.py)  
 - Math  
     - Easy   - _1_  
         - [x] [ 509 Fibonacci Number](math/easy/_509_Fibonacci_Number.py)  
@@ -54,7 +57,8 @@
         - [x] [ 202 Happy Number](hashmap/easy/_202_Happy_Number.py)  
         - [x] [ 219 Contains Duplicate II](hashmap/easy/_219_Contains_Duplicate_II.py)  
         - [x] [ 383 Ransom Note](hashmap/easy/_383_Ransom_Note.py)  
-    - Medium   - _1_  
+    - Medium   - _2_  
+        - [x] [ 763 Partition Labels](hashmap/medium/_763_Partition_Labels.py)  
         - [x] [ 49 Group Anagrams](hashmap/medium/_49_Group_Anagrams.py)  
 - Intervals  
     - Easy   - _1_  
@@ -66,8 +70,11 @@
         - [x] [ 20 Valid Parentheses](stack/easy/_20_Valid_Parentheses.py)  
     - Medium   - _1_  
         - [x] [ 394 Decode String](stack/medium/_394_Decode_String.py)  
+- Events  
+    - Medium   - _1_  
+        - [x] [ 986 Interval List Intersections](events/medium/_986_Interval_List_Intersections.py)  
 - Bst  
     - Easy   - _1_  
         - [x] [ 700 Search BST](BST/easy/_700_Search_BST.py)  
 
-**TOTAL SOLVED**: _42 problems_
+**TOTAL SOLVED**: _47 problems_
