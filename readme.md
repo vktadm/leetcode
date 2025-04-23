@@ -2,8 +2,9 @@
 - Prefix Sum  
     - Easy   - _1_  
         - [x] [ 1732 Find the Highest Altitude](prefix_sum/easy/_1732_Find_the_Highest_Altitude.py)  
-    - Medium   - _1_  
+    - Medium   - _2_  
         - [x] [ 560 Subarray Sum Equals K](prefix_sum/medium/_560_Subarray_Sum_Equals_K.py)  
+        - [x] [ 238 Product of Array Except Self](prefix_sum/medium/_238_Product_of_Array_Except_Self.py)  
 - Two Pointers  
     - Easy   - _3_  
         - [x] [ 125 Valid Palindrome](two_pointers/easy/_125_Valid_Palindrome.py)  
@@ -65,6 +66,9 @@
         - [x] [ 228 Summary Ranges](intervals/easy/_228_Summary_Ranges.py)  
     - Medium   - _1_  
         - [x] [ 56 Merge Intervals](intervals/medium/_56_Merge_Intervals.py)  
+- Sliding Window  
+    - Medium   - _1_  
+        - [x] [ 1004 Max Consecutive Ones III](sliding_window/medium/_1004_Max_Consecutive_Ones_III.py)  
 - Stack  
     - Easy   - _1_  
         - [x] [ 20 Valid Parentheses](stack/easy/_20_Valid_Parentheses.py)  
@@ -76,5 +80,7 @@
 - Bst  
     - Easy   - _1_  
         - [x] [ 700 Search BST](BST/easy/_700_Search_BST.py)  
+    - Medium   - _1_  
+        - [x] [ 22 Generate Parentheses](BST/medium/_22_Generate_Parentheses.py)  
 
-**TOTAL SOLVED**: _47 problems_
+**TOTAL SOLVED**: _50 problems_
