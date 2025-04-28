@@ -10,8 +10,9 @@
         - [x] [ 125 Valid Palindrome](two_pointers/easy/_125_Valid_Palindrome.py)  
         - [x] [ 392 Is Subsequence](two_pointers/easy/_392_Is_Subsequence.py)  
         - [x] [ 283 Move Zeroes](two_pointers/easy/_283_Move_Zeroes.py)  
-    - Medium   - _1_  
+    - Medium   - _2_  
         - [x] [ 443 String Compression](two_pointers/medium/_443_String_Compression.py)  
+        - [x] [ 11 Container With Most Water](two_pointers/medium/_11_Container_With_Most_Water.py)  
 - Linear Search  
     - Hard   - _1_  
         - [x] [ 42 Trapping Rain Water](linear_search/hard/_42_Trapping_Rain_Water.py)  
@@ -42,7 +43,8 @@
         - [x] [ 14 Longest Common Prefix](array_string/easy/_14_Longest_Common_Prefix.py)  
         - [x] [ 13 Roman to Integer](array_string/easy/_13_Roman_to_Integer.py)  
         - [x] [ 58 Length of Last Word](array_string/easy/_58_Length_of_Last_Word.py)  
-    - Medium   - _2_  
+    - Medium   - _3_  
+        - [x] [ 55 Jump Game](array_string/medium/_55_Jump_Game.py)  
         - [x] [ 151 Reverse Words in a String](array_string/medium/_151_Reverse_Words_in_a_String.py)  
         - [x] [ 849 Maximize Distance to Closest Person](array_string/medium/_849_Maximize_Distance_to_Closest_Person.py)  
 - Math  
@@ -83,4 +85,4 @@
     - Medium   - _1_  
         - [x] [ 22 Generate Parentheses](BST/medium/_22_Generate_Parentheses.py)  
 
-**TOTAL SOLVED**: _50 problems_
+**TOTAL SOLVED**: _52 problems_
