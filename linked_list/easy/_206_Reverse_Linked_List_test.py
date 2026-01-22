@@ -1,7 +1,7 @@
 import unittest
 
 from _206_Reverse_Linked_List import Solution
-from linked_list import Arr
+from linked_list.linked_list import Arr
 
 
 class SolutionTest(unittest.TestCase):

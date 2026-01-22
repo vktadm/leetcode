@@ -30,3 +30,16 @@ class Arr(object):
         # Добавляем элемент в конец связанного списка
         new_node = ListNode(value)
         current_node.next = new_node
+
+
+def create_array(head):
+    result = []
+    if head is None:
+        return result
+
+    current_node = head
+
+    while current_node is not None:
+        result.append(current_node.val)
+        current_node = current_node.next
+    return result

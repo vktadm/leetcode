@@ -10,16 +10,20 @@
         - [x] [ 125 Valid Palindrome](two_pointers/easy/_125_Valid_Palindrome.py)  
         - [x] [ 392 Is Subsequence](two_pointers/easy/_392_Is_Subsequence.py)  
         - [x] [ 283 Move Zeroes](two_pointers/easy/_283_Move_Zeroes.py)  
-    - Medium   - _2_  
+    - Medium   - _3_  
         - [x] [ 443 String Compression](two_pointers/medium/_443_String_Compression.py)  
         - [x] [ 11 Container With Most Water](two_pointers/medium/_11_Container_With_Most_Water.py)  
+        - [x] [ 167 Two Sum II](two_pointers/medium/_167_Two_Sum_II.py)  
 - Linear Search  
     - Hard   - _1_  
         - [x] [ 42 Trapping Rain Water](linear_search/hard/_42_Trapping_Rain_Water.py)  
 - Dynamic  
-    - Medium   - _4_  
+    - Easy   - _1_  
+        - [x] [ 70 Climbing Stairs](dynamic/easy/_70_Climbing_Stairs.py)  
+    - Medium   - _5_  
         - [x] [ 341 Flatten Nested List Iterator](dynamic/medium/_341_Flatten_Nested_List_Iterator.py)  
         - [x] [ 1493 Longest Subarray of 1's After Deleting One Element](dynamic/medium/_1493_Longest_Subarray_of_1's_After_Deleting_One_Element.py)  
+        - [x] [ 122 Best Time to Buy and Sell Stock II](dynamic/medium/_122_Best_Time_to_Buy_and_Sell_Stock_II.py)  
         - [x] [ 279 Perfect Squares](dynamic/medium/_279_Perfect_Squares.py)  
         - [x] [ 435 Non overlapping Intervals](dynamic/medium/_435_Non_overlapping_Intervals.py)  
 - Binary Tree  
@@ -71,10 +75,14 @@
 - Sliding Window  
     - Medium   - _1_  
         - [x] [ 1004 Max Consecutive Ones III](sliding_window/medium/_1004_Max_Consecutive_Ones_III.py)  
+- Sorting   - _2_  
+    - [x] [Bubble Sort](sorting/Bubble_Sort.py)  
+    - [x] [Count Sort](sorting/Count_Sort.py)  
 - Stack  
     - Easy   - _1_  
         - [x] [ 20 Valid Parentheses](stack/easy/_20_Valid_Parentheses.py)  
-    - Medium   - _1_  
+    - Medium   - _2_  
+        - [x] [ 1249 Minimum Remove to Make Valid Parentheses](stack/medium/_1249_Minimum_Remove_to_Make_Valid_Parentheses.py)  
         - [x] [ 394 Decode String](stack/medium/_394_Decode_String.py)  
 - Events  
     - Medium   - _1_  
@@ -85,4 +93,4 @@
     - Medium   - _1_  
         - [x] [ 22 Generate Parentheses](BST/medium/_22_Generate_Parentheses.py)  
 
-**TOTAL SOLVED**: _52 problems_
+**TOTAL SOLVED**: _58 problems_
