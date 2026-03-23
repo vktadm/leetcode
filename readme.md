@@ -81,16 +81,20 @@
 - Stack  
     - Easy   - _1_  
         - [x] [ 20 Valid Parentheses](stack/easy/_20_Valid_Parentheses.py)  
-    - Medium   - _2_  
+    - Medium   - _3_  
+        - [x] [ 71 Simplify Path](stack/medium/_71_Simplify_Path.py)  
         - [x] [ 1249 Minimum Remove to Make Valid Parentheses](stack/medium/_1249_Minimum_Remove_to_Make_Valid_Parentheses.py)  
         - [x] [ 394 Decode String](stack/medium/_394_Decode_String.py)  
 - Events  
     - Medium   - _1_  
         - [x] [ 986 Interval List Intersections](events/medium/_986_Interval_List_Intersections.py)  
+- Matrix  
+    - Medium   - _1_  
+        - [x] [ 36 Valid Sudoku](matrix/medium/_36_Valid_Sudoku.py)  
 - Bst  
     - Easy   - _1_  
         - [x] [ 700 Search BST](BST/easy/_700_Search_BST.py)  
     - Medium   - _1_  
         - [x] [ 22 Generate Parentheses](BST/medium/_22_Generate_Parentheses.py)  
 
-**TOTAL SOLVED**: _58 problems_
+**TOTAL SOLVED**: _60 problems_
