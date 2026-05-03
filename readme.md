@@ -10,7 +10,8 @@
         - [x] [ 125 Valid Palindrome](two_pointers/easy/_125_Valid_Palindrome.py)  
         - [x] [ 392 Is Subsequence](two_pointers/easy/_392_Is_Subsequence.py)  
         - [x] [ 283 Move Zeroes](two_pointers/easy/_283_Move_Zeroes.py)  
-    - Medium   - _3_  
+    - Medium   - _4_  
+        - [x] [ 15 3Sum](two_pointers/medium/_15_3Sum.py)  
         - [x] [ 443 String Compression](two_pointers/medium/_443_String_Compression.py)  
         - [x] [ 11 Container With Most Water](two_pointers/medium/_11_Container_With_Most_Water.py)  
         - [x] [ 167 Two Sum II](two_pointers/medium/_167_Two_Sum_II.py)  
@@ -37,6 +38,12 @@
         - [x] [ 101 Symmetric Tree](binary_tree/easy/_101_Symmetric_Tree.py)  
         - [x] [ 100 Same Tree](binary_tree/easy/_100_Same_Tree.py)  
         - [x] [ 104 Maximum Depth of Binary Tree](binary_tree/easy/_104_Maximum_Depth_of_Binary_Tree.py)  
+- Pandas Practice  
+    - Medium   - _2_  
+        - [x] [ 1158 Market Analysis I](pandas_practice/medium/_1158_Market_Analysis_I.py)  
+        - [x] [ 184 Department Highest Salary](pandas_practice/medium/_184_Department_Highest_Salary.py)  
+- Binary Search  
+    - Medium  
 - Array String  
     - Easy   - _8_  
         - [x] [ 27 Remove Element](array_string/easy/_27_Remove_Element.py)  
@@ -73,7 +80,11 @@
     - Medium   - _1_  
         - [x] [ 56 Merge Intervals](intervals/medium/_56_Merge_Intervals.py)  
 - Sliding Window  
-    - Medium   - _1_  
+    - Hard   - _1_  
+        - [x] [ 30 Substring with Concatenation of All Words](sliding_window/hard/_30_Substring_with_Concatenation_of_All_Words.py)  
+    - Medium   - _3_  
+        - [x] [ 209 Minimum Size Subarray Sum](sliding_window/medium/_209_Minimum_Size_Subarray_Sum.py)  
+        - [x] [ 3 Longest Substring Without Repeating Characters](sliding_window/medium/_3_Longest_Substring_Without_Repeating_Characters.py)  
         - [x] [ 1004 Max Consecutive Ones III](sliding_window/medium/_1004_Max_Consecutive_Ones_III.py)  
 - Sorting   - _2_  
     - [x] [Bubble Sort](sorting/Bubble_Sort.py)  
@@ -97,4 +108,4 @@
     - Medium   - _1_  
         - [x] [ 22 Generate Parentheses](BST/medium/_22_Generate_Parentheses.py)  
 
-**TOTAL SOLVED**: _60 problems_
+**TOTAL SOLVED**: _66 problems_
