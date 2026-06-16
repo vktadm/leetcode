@@ -6,9 +6,10 @@
         - [x] [ 560 Subarray Sum Equals K](prefix_sum/medium/_560_Subarray_Sum_Equals_K.py)  
         - [x] [ 238 Product of Array Except Self](prefix_sum/medium/_238_Product_of_Array_Except_Self.py)  
 - Two Pointers  
-    - Easy   - _3_  
+    - Easy   - _4_  
         - [x] [ 125 Valid Palindrome](two_pointers/easy/_125_Valid_Palindrome.py)  
         - [x] [ 392 Is Subsequence](two_pointers/easy/_392_Is_Subsequence.py)  
+        - [x] [ 680 Valid Palindrome II](two_pointers/easy/_680_Valid_Palindrome_II.py)  
         - [x] [ 283 Move Zeroes](two_pointers/easy/_283_Move_Zeroes.py)  
     - Medium   - _4_  
         - [x] [ 15 3Sum](two_pointers/medium/_15_3Sum.py)  
@@ -28,10 +29,12 @@
         - [x] [ 279 Perfect Squares](dynamic/medium/_279_Perfect_Squares.py)  
         - [x] [ 435 Non overlapping Intervals](dynamic/medium/_435_Non_overlapping_Intervals.py)  
 - Binary Tree  
-    - Easy   - _9_  
+    - Easy   - _11_  
+        - [x] [ 110 Balanced Binary Tree](binary_tree/easy/_110_Balanced_Binary_Tree.py)  
         - [x] [ 222 Count Complete Tree Nodes](binary_tree/easy/_222_Count_Complete_Tree_Nodes.py)  
         - [x] [ 637 Average of Levels in Binary Tree](binary_tree/easy/_637_Average_of_Levels_in_Binary_Tree.py)  
         - [x] [ 112 Path Sum](binary_tree/easy/_112_Path_Sum.py)  
+        - [x] [ 111 Minimum Depth of Binary Tree](binary_tree/easy/_111_Minimum_Depth_of_Binary_Tree.py)  
         - [x] [ 226 Invert Binary Tree](binary_tree/easy/_226_Invert_Binary_Tree.py)  
         - [x] [ 94 Binary Tree Inorder Traversal](binary_tree/easy/_94_Binary_Tree_Inorder_Traversal.py)  
         - [x] [ 872 Leaf Similar Trees](binary_tree/easy/_872_Leaf_Similar_Trees.py)  
@@ -39,11 +42,21 @@
         - [x] [ 100 Same Tree](binary_tree/easy/_100_Same_Tree.py)  
         - [x] [ 104 Maximum Depth of Binary Tree](binary_tree/easy/_104_Maximum_Depth_of_Binary_Tree.py)  
 - Pandas Practice  
-    - Medium   - _2_  
+    - Easy   - _3_  
+        - [x] [ 595 Big Countries](pandas_practice/easy/_595_Big_Countries.py)  
+        - [x] [ 607 Sales Person](pandas_practice/easy/_607_Sales_Person.py)  
+        - [x] [ 1873 Calculate Special Bonus](pandas_practice/easy/_1873_Calculate_Special_Bonus.py)  
+    - Medium   - _3_  
         - [x] [ 1158 Market Analysis I](pandas_practice/medium/_1158_Market_Analysis_I.py)  
         - [x] [ 184 Department Highest Salary](pandas_practice/medium/_184_Department_Highest_Salary.py)  
+        - [x] [ 1907 Count Salary Categories](pandas_practice/medium/_1907_Count_Salary_Categories.py)  
 - Binary Search  
+    - Easy   - _1_  
+        - [x] [ 704 Binary Search](binary_search/easy/_704_Binary_Search.py)  
     - Medium  
+- Graph   - _2_  
+    - [x] [bfs](graph/bfs.py)  
+    - [x] [dfs](graph/dfs.py)  
 - Array String  
     - Easy   - _8_  
         - [x] [ 27 Remove Element](array_string/easy/_27_Remove_Element.py)  
@@ -54,7 +67,8 @@
         - [x] [ 14 Longest Common Prefix](array_string/easy/_14_Longest_Common_Prefix.py)  
         - [x] [ 13 Roman to Integer](array_string/easy/_13_Roman_to_Integer.py)  
         - [x] [ 58 Length of Last Word](array_string/easy/_58_Length_of_Last_Word.py)  
-    - Medium   - _3_  
+    - Medium   - _4_  
+        - [x] [ 137 Single Number II](array_string/medium/_137_Single_Number_II.py)  
         - [x] [ 55 Jump Game](array_string/medium/_55_Jump_Game.py)  
         - [x] [ 151 Reverse Words in a String](array_string/medium/_151_Reverse_Words_in_a_String.py)  
         - [x] [ 849 Maximize Distance to Closest Person](array_string/medium/_849_Maximize_Distance_to_Closest_Person.py)  
@@ -62,7 +76,7 @@
     - Easy   - _1_  
         - [x] [ 509 Fibonacci Number](math/easy/_509_Fibonacci_Number.py)  
 - Hashmap  
-    - Easy   - _8_  
+    - Easy   - _9_  
         - [x] [ 1207 Unique Number of Occurrences](hashmap/easy/_1207_Unique_Number_of_Occurrences.py)  
         - [x] [ 242 Valid Anagram](hashmap/easy/_242_Valid_Anagram.py)  
         - [x] [ 1 Two Sum](hashmap/easy/_1_Two_Sum.py)  
@@ -71,6 +85,7 @@
         - [x] [ 202 Happy Number](hashmap/easy/_202_Happy_Number.py)  
         - [x] [ 219 Contains Duplicate II](hashmap/easy/_219_Contains_Duplicate_II.py)  
         - [x] [ 383 Ransom Note](hashmap/easy/_383_Ransom_Note.py)  
+        - [x] [ 217 Contains Duplicate](hashmap/easy/_217_Contains_Duplicate.py)  
     - Medium   - _2_  
         - [x] [ 763 Partition Labels](hashmap/medium/_763_Partition_Labels.py)  
         - [x] [ 49 Group Anagrams](hashmap/medium/_49_Group_Anagrams.py)  
@@ -89,12 +104,17 @@
 - Sorting   - _2_  
     - [x] [Bubble Sort](sorting/Bubble_Sort.py)  
     - [x] [Count Sort](sorting/Count_Sort.py)  
+- No Alg Tasks   - _3_  
+    - [x] [cache](no_alg_tasks/cache.py)  
+    - [x] [endless counter](no_alg_tasks/endless_counter.py)  
+    - [x] [compress](no_alg_tasks/compress.py)  
 - Stack  
     - Easy   - _1_  
         - [x] [ 20 Valid Parentheses](stack/easy/_20_Valid_Parentheses.py)  
-    - Medium   - _3_  
+    - Medium   - _4_  
         - [x] [ 71 Simplify Path](stack/medium/_71_Simplify_Path.py)  
         - [x] [ 1249 Minimum Remove to Make Valid Parentheses](stack/medium/_1249_Minimum_Remove_to_Make_Valid_Parentheses.py)  
+        - [x] [ 921 Minimum Add to Make Parentheses Valid](stack/medium/_921_Minimum_Add_to_Make_Parentheses_Valid.py)  
         - [x] [ 394 Decode String](stack/medium/_394_Decode_String.py)  
 - Events  
     - Medium   - _1_  
@@ -108,4 +128,4 @@
     - Medium   - _1_  
         - [x] [ 22 Generate Parentheses](BST/medium/_22_Generate_Parentheses.py)  
 
-**TOTAL SOLVED**: _66 problems_
+**TOTAL SOLVED**: _82 problems_

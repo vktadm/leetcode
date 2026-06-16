@@ -43,7 +43,12 @@ class Statistics:
         self.path = path
         self.file: File = File()
         self.total: int = 0
-        self.exceptions: list = ["test", "create_tree", "linked_list"]
+        self.exceptions: list = [
+            "test",
+            "create_tree",
+            "linked_list",
+            "theory",
+        ]
         self.create_statistic()
 
     def create_statistic(self) -> None:

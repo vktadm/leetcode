@@ -10,7 +10,7 @@ class SolutionTest(unittest.TestCase):
         self.assertEqual(result, Solution().moveZeroes(nums))
 
     def test_case_1(self):
-        self.run_test([0, 1, 0, 3, 12], [1, 3, 12, 0, 0])
+        self.run_test([0, 1, 0, 3, 0, 14, 12, 0], [1, 3, 12, 0, 0])
 
     def test_case_2(self):
         self.run_test([0], [0])

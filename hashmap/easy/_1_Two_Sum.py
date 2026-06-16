@@ -1,21 +1,20 @@
-class Solution(object):
-    def twoSum(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
-        diff_nums = {}
-        l = len(nums)
-
-        for idx in range(l):
-            diff_nums[target - nums[idx]] = idx
-
-        for idx in range(l):
-            value = nums[idx]
-            if diff_nums.get(value) and idx != diff_nums[value]:
-                return [idx, diff_nums[nums[idx]]]
+from typing import List
 
 
-s = Solution()
-print(s.twoSum([1, 3, 4, 2], 6))
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        num_map = {}
+        for idx in range(len(nums)):
+            diff = target - nums[idx]
+            if diff in num_map:
+                return [num_map[diff], idx]
+
+            num_map[nums[idx]] = idx
+
+        return []
+
+
+if __name__ == "__main__":
+    nums = [3, 2, 4]
+    target = 6
+    Solution().twoSum(nums, target)
